@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 95 95" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g transform="matrix(1.11765,0,0,1.21795,-5.58824,-14.6154)">
+        <path d="M47.5,27.6C56.447,12 74.342,12 83.29,19.8C92.237,27.6 92.237,43.2 83.29,58.8C77.026,70.5 60.921,82.2 47.5,90C34.079,82.2 17.974,70.5 11.711,58.8C2.763,43.2 2.763,27.6 11.711,19.8C20.658,12 38.553,12 47.5,27.6Z" style="fill:rgb(255,12,255);"/>
+    </g>
+    <g transform="matrix(1,0,0,1,-19,15)">
+        <text x="28.44px" y="45.17px" style="font-family:'MS-UIGothic', 'MS UI Gothic', sans-serif;font-size:36px;fill:rgb(238,238,238);">うらわ</text>
+    </g>
+</svg>
