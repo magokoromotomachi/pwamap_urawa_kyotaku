@@ -2,7 +2,7 @@
   "title": "浦和居宅マップ",
   "description": "浦和区の居宅を地図上で確認できます。",
   "form_url": "",
-  "logo_image_url": "https://magokoromotomachi.github.io/pwamap_urawa_kyotaku/pwamap_logo95x95.svg",
+  "logo_image_url": "https://magokoromotomachi.github.io/pwamap_urawa_kyotaku/ura_pwamap_logo95x95.svg",
   "background_image_url": "https://geoloniamaps.github.io/pwamap/geolonia_bgimage_1920_1080.png",
   "primary_color": "#d2691e",
   "orderby": "distance"
